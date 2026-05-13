@@ -302,8 +302,8 @@ const Portfolio = () => {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-socials">
-            <a href="https://github.com/Jeyavarman" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
-            <a href="https://linkedin.com/in/Jeyavarman" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+            <a href="https://github.com/Jeyavarman-2005" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
+            <a href="https://www.linkedin.com/in/jeyavarman-m-857149261/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
             <a href="mailto:officialjeyavarman@gmail.com">Email Address</a>
           </div>
         </div>
